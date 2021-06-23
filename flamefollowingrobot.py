@@ -1,4 +1,4 @@
-#Flame Following Robot with Raspberry Pi Pico and MicroPython
+#Flame Following Robot using Raspberry Pi Pico and MicroPython
 #Author: MohammadReza Sharifi
 
 from machine import Pin as pin
